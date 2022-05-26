@@ -1,0 +1,10 @@
+plastic
+paper
+cardboard
+styrofoam
+bottle-plastic
+can
+spoon-plastic
+glass-plastic
+stick
+straw
