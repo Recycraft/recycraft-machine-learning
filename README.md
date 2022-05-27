@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="center" src="https://github.com/Recycraft/.github/blob/main/assets/racycraft.jpg"  width="300"></img>
+  <img align="center" src="https://github.com/Recycraft/.github/blob/main/assets/racycraft.jpg"  width="200"></img>
 <br>
 Recycraft
 </h1>
