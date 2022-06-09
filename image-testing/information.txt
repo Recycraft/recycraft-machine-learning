@@ -1,0 +1,13 @@
+	  Our last model use 8 class 
+-------------------------------------------
+Class         | Result Good Prediction    |
+-------------------------------------------
+1. Bottle     | real image  |	  google	|
+2. Can 	  | 	  -       |	  google    |
+3. Cardboard  | real image  |	  google	|
+4. Glass      | real image  |   google	|
+5. Paper      | real image  |	  google	|
+6. Plastic    |	  -	    |	  google	|
+7. Spoon      | real image  |	  google	|
+8. Styrofoam  |	  -	    |	  google	|
+-------------------------------------------
