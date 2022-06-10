@@ -26,17 +26,16 @@ This project is our final project for Google Bangkit Academy 2022.
 [RecyraftCloud]()
 
 **Machine Learning :** 
-Building three models that include : [scraps type classification](https://github.com/Recycraft/machine-learning/tree/main/scraps-type-classification), [scraps classification detection](https://github.com/Recycraft/machine-learning/tree/main/scraps-classification-detection), and [crafts recommendation](). Build process using *baseline experiment, dropout, flatten*. In this project, we use simple Convolutional Neural Network and pre-trained model or transfer learning by *Inceptionv3 and Xception*. The model was saved with *model.tflite* and chosen by the [best model]() for deployment.
+Building two models that include : [scraps type classification](https://github.com/Recycraft/machine-learning/tree/main/scraps-type-classification) and [scraps classification detection](https://github.com/Recycraft/machine-learning/tree/main/scraps-classification-detection). Build process using *baseline experiment, dropout, flatten*. In this project, we use simple Convolutional Neural Network and pre-trained model or transfer learning by *Inceptionv3 and Xception*. The model was saved with *model.tflite* and chosen by the [best model]() for deployment.
 
 ## Machine Learning Task :
-1. Scraps Type Classification
-2. Scraps Classification & Detection
-3. Crafts Recommendation
+1. Scraps Type Classification (2 Class : Organic & Recycleable)
+2. Scraps Classification & Detection (8 Class : Bottle-Plastic, Can, Cardboard, Glass-Plastic, Paper, Plastic, Spoon-Plastic, and Styrofoam)
 
 ## Datasets (Kaggle and Github) :
 1. Recycleable or Organic :
   * [Waste Classification Data](https://www.kaggle.com/datasets/techsash/waste-classification-data)
-2. Scraps with 10 class (Plastic, Paper, Cardboard, Styrofoam, Bottle, Can, Spoon Plastic, Stick, Straw, Glass Plastic) :
+2. Scraps with 8 class ( Bottle-Plastic, Can, Cardboard, Glass-Plastic, Paper, Plastic, Spoon-Plastic, and Styrofoam) :
   * [Garbage Classification - 12 Classes](https://www.kaggle.com/datasets/mostafaabla/garbage-classification)
   * [Most Common Recyclable and Non-Recyclable Objects](https://www.kaggle.com/datasets/ashwinshrivastav/most-common-recyclable-and-nonrecyclable-objects)
   * [TrashBox](https://github.com/nikhilvenkatkumsetty/TrashBox)
