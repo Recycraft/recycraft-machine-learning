@@ -60,7 +60,16 @@ Building three models that include : [scraps type classification](https://github
 6. Kaggle API Token → [Generate](https://github.com/Kaggle/kaggle-api#api-credentials)
 
 ## Documentation :
-* *TBC*
+Documentation (Machine Learning)
+===================================
+1. Import Library and Preparing Dataset
+2. Splitting and Checking Dataset
+3. Preprocessing Dataset and Perform Data Augmentation
+4. Make ML Model, Build and Training Dataset
+5. Model Evaluation
+6. Create Prediction Data
+7. Get Result Prediction
+8. Saved Model and Convert to TFLite Model
 
 ## References (Paper/Journal/Article) :
 * *TBC*
