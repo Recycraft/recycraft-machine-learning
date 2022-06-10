@@ -29,8 +29,8 @@ This project is our final project for Google Bangkit Academy 2022.
 Building two models that include : [scraps type classification](https://github.com/Recycraft/machine-learning/tree/main/scraps-type-classification) and [scraps classification detection](https://github.com/Recycraft/machine-learning/tree/main/scraps-classification-detection). Build process using *baseline experiment, dropout, flatten*. In this project, we use simple Convolutional Neural Network and pre-trained model or transfer learning by *Inceptionv3 and Xception*. The model was saved with *model.tflite* and chosen by the [best model]() for deployment.
 
 ## Machine Learning Task :
-1. Scraps Type Classification (2 Class : Organic & Recycleable)
-2. Scraps Classification & Detection (8 Class : Bottle-Plastic, Can, Cardboard, Glass-Plastic, Paper, Plastic, Spoon-Plastic, and Styrofoam)
+1. Scraps Type Classification (Binary Classification)
+2. Scraps Classification & Detection (Multiple Classification)
 
 ## Datasets (Kaggle and Github) :
 1. Recycleable or Organic :
