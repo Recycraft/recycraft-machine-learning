@@ -69,4 +69,7 @@ Building two models that include : [scraps type classification](https://github.c
 8. Saved Model and Convert to TFLite Model
 
 ## References (Paper/Journal/Article) :
-* *TBC*
+1. https://iopscience.iop.org/article/10.1088/1755-1315/775/1/012010/meta
+2. https://www.mdpi.com/2313-4321/7/1/9
+3. https://www.scirp.org/pdf/jcc_2021011322480971.pdf
+4. https://ieeexplore.ieee.org/abstract/document/9395916
